@@ -56,10 +56,10 @@ const skillsSection = {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
+    // {
+    //   skillName: "swift",
+    //   fontAwesomeClassname: "fab fa-swift"
+    // },
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -76,14 +76,14 @@ const skillsSection = {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+    // {
+    //   skillName: "python",
+    //   fontAwesomeClassname: "fab fa-python"
+    // },
+    // {
+    //   skillName: "docker",
+    //   fontAwesomeClassname: "fab fa-docker"
+    // }
   ]
 };
 
