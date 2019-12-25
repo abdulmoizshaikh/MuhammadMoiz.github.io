@@ -119,57 +119,61 @@ const achievementSection = {
     "Achievements, Certifications Award Letters and Some Cool Stuff that i have done !",
 
   achivementsCards: [
-    {
-      title: "Google Code-In Finalist",
-      description:
-        "First Pakistani to be selected as Google Google-in Finalist from 4000 students from 77 diffrent countries",
-      image:
-        "https://1.bp.blogspot.com/-Ig-v1tDXZt4/XDODmZvWp1I/AAAAAAAAB0A/KtbFdBPFVQw2O15FekkIR0Yg8MUp--rngCLcBGAs/s1600/GCI%2B-%2BVertical%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png",
-      footerLink: [
-        {
-          name: "Certification",
-          url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url:
-            "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
-      ]
-    },
-    {
-      title: "Google Assistant Action",
-      description:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
-      footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url:
-            "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
+    // {
+    //   title: "Google Code-In Finalist",
+    //   description:
+    //     "First Pakistani to be selected as Google Google-in Finalist from 4000 students from 77 diffrent countries",
+    //   image:
+    //     "https://1.bp.blogspot.com/-Ig-v1tDXZt4/XDODmZvWp1I/AAAAAAAAB0A/KtbFdBPFVQw2O15FekkIR0Yg8MUp--rngCLcBGAs/s1600/GCI%2B-%2BVertical%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png",
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url:
+    //         "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+    //     },
+    //     {
+    //       name: "Award Letter",
+    //       url:
+    //         "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+    //     },
+    //     {
+    //       name: "Google Code-in Blog",
+    //       url:
+    //         "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+    //     }
+    //   ]
+    // },
+    // {
+    //   title: "Google Assistant Action",
+    //   description:
+    //     "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+    //   image:
+    //     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
+    //   footerLink: [
+    //     {
+    //       name: "View Google Assistant Action",
+    //       url:
+    //         "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+    //     }
+    //   ]
+    // },
 
     {
-      title: "PWA Web App Developer",
+      title: "SMIT Web And Mobile Application Development",
       description:
         "Completed Certifcation from SMIT for PWA Web App Development",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
+      "https://www.tutorialspoint.com/videotutorials/assets/videos/courses/510/images/course_510_image.png",
+      // "https://miro.medium.com/max/820/1*HcHZ55Hz6WV9t9SiWe6wKA.jpeg",
+      // "https://i.ibb.co/nC9krb8/2.png",
+      // "https://i.ibb.co/Dp4sT6v/76935584-2470918346508075-2975944283476983808-o-1.jpg",
+        // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
       footerLink: [
-        { name: "Certification", url: "" },
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+        { name: "Certification", url: "https://i.ibb.co/Dp4sT6v/76935584-2470918346508075-2975944283476983808-o-1.jpg" },
+        // {
+        //   name: "Final Project",
+        //   url: "https://pakistan-olx-1.firebaseapp.com/"
+        // }
       ]
     }
   ]

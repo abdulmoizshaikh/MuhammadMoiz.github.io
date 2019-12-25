@@ -20,7 +20,7 @@ export default class Main extends Component {
         <Skills />
         <Projects />
         <StartupProject />
-        {/* <Achievement /> add certifications here */} 
+        <Achievement /> 
         {/* <Blogs /> */}
         {/* <Talks /> */}
         {/* <Podcast /> */}
