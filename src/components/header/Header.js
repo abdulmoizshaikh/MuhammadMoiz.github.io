@@ -7,7 +7,7 @@ function Header() {
       <header className="header">
         <a href="" className="logo">
           <span className="grey-color"> &lt;</span>
-          <span className="logo-name">Saad Pasta</span>
+          <span className="logo-name">Muhammad Moiz</span>
           <span className="grey-color">/&gt;</span>
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
@@ -24,12 +24,12 @@ function Header() {
           <li>
             <a href="#opensource">Open Source</a>
           </li>
-          <li>
+          {/* <li>
             <a href="#blogs">Blogs</a>
-          </li>
-          <li>
+          </li> */}
+          {/* <li>
             <a href="#talks">Talks</a>
-          </li>
+          </li> */}
           <li>
             <a href="#achievements">Achievements</a>
           </li>
