@@ -4,6 +4,7 @@
 
 .startup-projects-main > * {
   flex: 1;
+  margin-top: 20px;
   margin-bottom: 30px;
 }
 
@@ -22,6 +23,7 @@
 
 .startup-project-text {
   display: flex;
+  width: 100%;
   justify-content: space-between;
 }
 
@@ -31,6 +33,10 @@
 .saaya-health-div,
 .nextu-div {
   cursor: pointer;
+  /* width: 40%; */
+  display:flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media (max-width: 768px) {

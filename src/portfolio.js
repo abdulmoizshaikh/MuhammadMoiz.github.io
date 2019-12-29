@@ -101,12 +101,12 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
     {
-      image: "https://drive.google.com/uc?id=1exWn9T6j8TsfDDHJnS3VR66eP6RiGAfY",
-      link: "http://saayahealth.com/"
+      image:"https://i.ibb.co/DtHyGYT/capalogo.png",
+      link: "https://www.linkedin.com/company/capazyte/about/"
     },
     {
-      image: "http://nextu.se/wp-content/themes/nextu/images/og_img.jpg",
-      link: "http://nextu.se/"
+      image: "https://i.ibb.co/BK0fmtM/xordlogo.png",
+      link: "https://xord.one/"
     }
   ]
 };
@@ -159,14 +159,15 @@ const achievementSection = {
     // },
 
     {
-      title: "SMIT Web And Mobile Application Development",
+      title: "Full Stack Development",
+      // title: "SMIT Web And Mobile Application Development",
       description:
         "Completed Certifcation from SMIT for PWA Web App Development",
       image:
-      "https://www.tutorialspoint.com/videotutorials/assets/videos/courses/510/images/course_510_image.png",
+      // "https://www.tutorialspoint.com/videotutorials/assets/videos/courses/510/images/course_510_image.png",
       // "https://miro.medium.com/max/820/1*HcHZ55Hz6WV9t9SiWe6wKA.jpeg",
       // "https://i.ibb.co/nC9krb8/2.png",
-      // "https://i.ibb.co/Dp4sT6v/76935584-2470918346508075-2975944283476983808-o-1.jpg",
+      "https://i.ibb.co/Dp4sT6v/76935584-2470918346508075-2975944283476983808-o-1.jpg",
         // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
       footerLink: [
         { name: "Certification", url: "https://i.ibb.co/Dp4sT6v/76935584-2470918346508075-2975944283476983808-o-1.jpg" },
