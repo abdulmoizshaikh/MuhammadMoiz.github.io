@@ -6,7 +6,7 @@ const gretting = {
   subTitle:
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
   resumeLink:
-    "https://drive.google.com/file/d/1ICnf-hWP6KIT3EWRKn_bjXkyoai-Mc_x/view?usp=sharing"
+    "https://drive.google.com/open?id=1i6VgogE55oOOBb4Mgqo_qEfh1tP8m2eb"
 };
 
 const socialMediaLinks = {
@@ -75,7 +75,7 @@ const skillsSection = {
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
-    },
+    }
     // {
     //   skillName: "python",
     //   fontAwesomeClassname: "fab fa-python"
@@ -101,7 +101,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
     {
-      image:"https://i.ibb.co/DtHyGYT/capalogo.png",
+      image: "https://i.ibb.co/DtHyGYT/capalogo.png",
       link: "https://www.linkedin.com/company/capazyte/about/"
     },
     {
@@ -164,13 +164,17 @@ const achievementSection = {
       description:
         "Completed Certifcation from SMIT for PWA Web App Development",
       image:
-      // "https://www.tutorialspoint.com/videotutorials/assets/videos/courses/510/images/course_510_image.png",
-      // "https://miro.medium.com/max/820/1*HcHZ55Hz6WV9t9SiWe6wKA.jpeg",
-      // "https://i.ibb.co/nC9krb8/2.png",
-      "https://i.ibb.co/Dp4sT6v/76935584-2470918346508075-2975944283476983808-o-1.jpg",
-        // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
+        // "https://www.tutorialspoint.com/videotutorials/assets/videos/courses/510/images/course_510_image.png",
+        // "https://miro.medium.com/max/820/1*HcHZ55Hz6WV9t9SiWe6wKA.jpeg",
+        // "https://i.ibb.co/nC9krb8/2.png",
+        "https://i.ibb.co/Dp4sT6v/76935584-2470918346508075-2975944283476983808-o-1.jpg",
+      // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
       footerLink: [
-        { name: "Certification", url: "https://i.ibb.co/Dp4sT6v/76935584-2470918346508075-2975944283476983808-o-1.jpg" },
+        {
+          name: "Certification",
+          url:
+            "https://i.ibb.co/Dp4sT6v/76935584-2470918346508075-2975944283476983808-o-1.jpg"
+        }
         // {
         //   name: "Final Project",
         //   url: "https://pakistan-olx-1.firebaseapp.com/"
